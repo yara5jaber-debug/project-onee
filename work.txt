@@ -1,3 +1,7 @@
 create page setting
 create home page
+
 create page webview
+
+create page video
+

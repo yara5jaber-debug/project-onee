@@ -1,6 +1,5 @@
-create page setting
-create home page
 create page video
 create dashboard
 create page login
 create page forget
+
